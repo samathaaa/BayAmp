@@ -1,7 +1,5 @@
 # BayAmp 
 # Mahmoud
 # RK
-Rebecca
+# Rebecca
 #kate
-# Xuan
-#vivek
