@@ -1,2 +1,6 @@
 Added again by Uday
+<<<<<<< HEAD
 Adding Line 3
+=======
+Adding Line 2
+>>>>>>> 12f536e88ae57c2c2478d71a1242a7bc22b46f18
